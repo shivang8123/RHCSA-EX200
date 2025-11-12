@@ -1,4 +1,6 @@
 # RHCSA (EX200) 9 Prep Repo
+This repo contains RHCSA EX200 Syllabus.
+
 This repo contains my study notes, a practice task list I used for preparing for the RHCSA 9 exam, as well as some general guidelines for how I built out my lab.
 
 ## Layout
